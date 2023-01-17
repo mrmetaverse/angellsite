@@ -10,14 +10,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <meta name="google-site-verification" content="gnMRBGAGdDNogNyFJJ5QVy3R1FvkBX8uxxv70ZJLG2E" />
         <meta name="description" content="We're XR (VR/AR) enthusiasts dedicated to co-creating an open Metaverse." />
-        <meta name="keywords" content="Metaverse, Angell, Interoperability, protocol, fund, WebXR, XR, VR, AR, Startup, Maryland, collaboration, Maryland VR, Annapolis, invest" />
+        <meta name="keywords" content="Metaverse, Angell, Interoperability, protocol, fund, WebXR, XR, VR, AR, Startup, Maryland, collaboration, Maryland VR, open metaverse, Annapolis, invest" />
       </Head>
       <main>
         <img src="/Angell-Logo-black.svg" alt="Angell XR is a product of AltonTech, Inc" className="img" />
         <h1 className="title">
-          {"{{"} <a href="https://discord.gg/mJyq5NK4kT">Angell XR</a>
-          {"  "}
-          {"}}"}
+          Angell XR
         </h1>
 
 
@@ -110,22 +108,23 @@ export default function Home() {
           text-decoration: none;
         }
 
-        .title a {
-          color: #623cea;
-          text-decoration: none;
+        // .title {
+        //   color: #623cea;
+        //   text-decoration: none;
 
-        }
+        // }
 
-        .title a:hover,
-        .title a:focus,
-        .title a:active {
-          text-decoration: underline;
-        }
+        // .title a:hover,
+        // .title a:focus,
+        // .title a:active {
+        //   text-decoration: underline;
+        // }
 
         .title {
+          color: #623cea;
           margin: 0;
-          line-height: 1.5;
-          font-size: 5vh;
+          line-height: 2.23;
+          font-size: 6vh;
         }
 
     
