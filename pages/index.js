@@ -34,7 +34,7 @@ export default function Home() {
             <p>Hosts of the Open Metaverse Interoperability group.</p>
           </a>
 
-          <a href="https://discord.gg/bx7UXFchCV" className="card">
+          <a href="https://discord.gg/KESa7c7z4h" className="card">
             <h3>Discord &rarr;</h3>
             <p>Join our metaverse collaboration community.</p>
           </a>
